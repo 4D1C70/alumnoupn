@@ -1,0 +1,22 @@
+{
+    "status": "OK",
+    "message": "",
+    "detail": {
+
+        "codigo": "N00012897",
+        "apellidoPaterno": "NUÑEZ",
+        "apellidoMaterno": "CHAMAYA",
+        "nombres": "EBER JESUS",
+        "correoUPN": "N00012897@upn.pe",
+        "celularPersonal": "51925237033",
+        "correoPersonal": "eber.nc@hotmail.com",
+        "codigoModalidad": "UG",
+        "nombreModalidad": "Pregrado Regular",
+        "codigoCampus": "TML",
+        "campus": "Trujillo El Molino",
+        "codigoCarrera": "ADM-UG",
+        "carrera": "Administración",
+        "condicion": "Activo",
+        "estadoAlumno": "Estudiante"
+    }
+}
